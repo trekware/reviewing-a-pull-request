@@ -9,3 +9,4 @@ A project based learning activity for people who are getting started with Git an
 This fun open source game was cloned from: [jakesgordon/javascript-tetris](https://github.com/jakesgordon/javascript-tetris)
 looks ok
 adding more comment for more commits
+recommenting
